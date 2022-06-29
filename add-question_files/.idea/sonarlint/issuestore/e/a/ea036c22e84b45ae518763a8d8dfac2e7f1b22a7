@@ -1,0 +1,401 @@
+
+wjavascript:S3776"VRefactor this function to reduce its Cognitive Complexity from 2178 to the 15 allowed.(øˆ§·üÿÿÿÿ
+Ujavascript:S1135Q"4Complete the task associated to this "TODO" comment.(ç¨àØùÿÿÿÿ
+`javascript:S3358V"DExtract this nested ternary operation into an independent statement.(°ÙÖ“
+Rjavascript:S1117ç"0'tokens' is already declared in the upper scope.(Ç²ªÆûÿÿÿÿ
+Ljavascript:S1117ğ"/'token' is already declared in the upper scope.(—Ç—¬
+njavascript:S4138ÿ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÀÎ‹òüÿÿÿÿ
+njavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÀÎ‹òüÿÿÿÿ
+Qjavascript:S1117ª"/'token' is already declared in the upper scope.(ˆ¦øÿÿÿÿ
+Ljavascript:S1117É"/'token' is already declared in the upper scope.(áõ­ 
+6javascript:S2814Ú"'type' is already defined.(Á¿Ó
+Sjavascript:S1117ó"6'currentToken' is already declared in the upper scope.(óÿä
+Fjavascript:S2189ö"$'type' is not modified in this loop.(ÃñÂµÿÿÿÿÿ
+Gjavascript:S2189÷"%'value' is not modified in this loop.(îÁ‚³ûÿÿÿÿ
+Qjavascript:S1117Ÿ"/'token' is already declared in the upper scope.(¶€³üúÿÿÿÿ
+Rjavascript:S1117‰"0'string' is already declared in the upper scope.(áı¹üÿÿÿÿ
+Xjavascript:S1117ò"6'parseElement' is already declared in the upper scope.(›ã¹‰ÿÿÿÿÿ
+Rjavascript:S1117ƒ"6'parseElement' is already declared in the upper scope.(éîŸi
+7javascript:S2814‡"'root' is already defined.(’„¦å
+wjavascript:S2392‡"ZConsider moving declaration of 'root' as it is referenced outside current binding context.(’„¦å
+njavascript:S4138£"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ï¤©“úÿÿÿÿ
+†javascript:S2392"dConsider moving declaration of 'commandElement' as it is referenced outside current binding context.(à¯´Éşÿÿÿÿ
+Fjavascript:S2814ˆ"$'commandElement' is already defined.(£ÿÌîúÿÿÿÿ
+Ajavascript:S2814Š"$'commandElement' is already defined.(ÌÃ‹Ù
+‡javascript:S1172“"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(±‡©Ùüÿÿÿÿ
+…javascript:S1172œ"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(†ï–üşÿÿÿÿ
+‡javascript:S1172œ"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(†ï–üşÿÿÿÿ
+‚javascript:S1172¦"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(Â©Ç°
+njavascript:S4138§"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Åì’ùÿÿÿÿ
+‡javascript:S1172¹"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(¡òÇœøÿÿÿÿ
+Wjavascript:S1117¹"5'conditional' is already declared in the upper scope.(¡òÇœøÿÿÿÿ
+javascript:S1172Ê"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(å€Ä]
+€javascript:S1488¼
+"cImmediately return this expression instead of assigning it to the temporary variable "eventResult".(¢¬şÎ
+ijavascript:S4138Ø
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(øé…Õ
+ijavascript:S4138ä
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(´şØá
+njavascript:S4138è
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(©ùõóÿÿÿÿÿ
+@javascript:S2310ø
+"Remove this assignment of "i".(ƒ­øşÿÿÿÿ
+@javascript:S2310ı
+"Remove this assignment of "i".(ƒ­øşÿÿÿÿ
+wjavascript:S2392 "ZConsider moving declaration of 'next' as it is referenced outside current binding context.(³à÷
+hjavascript:S4138×"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¤íµ^
+ijavascript:S4138İ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ñãè¸
+}javascript:S2392ß"[Consider moving declaration of 'value' as it is referenced outside current binding context.(Ã¦Øõúÿÿÿÿ
+8javascript:S2814ë"'value' is already defined.(£¾¼
+Qjavascript:S1135‘"4Complete the task associated to this "TODO" comment.(æÆüš
+njavascript:S4138±"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ÿ–µÔùÿÿÿÿ
+njavascript:S4138ù"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÕÎŠ…ıÿÿÿÿ
+Hjavascript:S3696‰"&Expected an error object to be thrown.(…·—ıÿÿÿÿ
+Qjavascript:S1135Œ"4Complete the task associated to this "TODO" comment.(¸¼çú
+=javascript:S1481" Remove unused function 'isType'.(¤ó²İ
+…javascript:S1488¥"cImmediately return this expression instead of assigning it to the temporary variable "hyperscript".(ĞÍË®şÿÿÿÿ
+javascript:S1488¨"bImmediately return this expression instead of assigning it to the temporary variable "expression".(”€ã¯
+Jjavascript:S1117Ê"-'elt' is already declared in the upper scope.(ï¤ŞÄ
+javascript:S1488š"dImmediately return this expression instead of assigning it to the temporary variable "elementScope".(•¸êí
+javascript:S2392³"bConsider moving declaration of 'elementScope' as it is referenced outside current binding context.(½É¢°
+?javascript:S2814Å""'elementScope' is already defined.(½É¢°
+javascript:S2392Ö"bConsider moving declaration of 'elementScope' as it is referenced outside current binding context.(½É¢°
+?javascript:S2814á""'elementScope' is already defined.(½É¢°
+njavascript:S4138“"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(É¤ìíıÿÿÿÿ
+wjavascript:S2392§"ZConsider moving declaration of 'root' as it is referenced outside current binding context.(òÙ¦Á
+7javascript:S2814©"'root' is already defined.(¢¢Öş
+Vjavascript:S1135Ğ"4Complete the task associated to this "TODO" comment.(ŞÁ‚Ùıÿÿÿÿ
+njavascript:S4138Ù"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Î«–èûÿÿÿÿ
+yjavascript:S2392Ù"WConsider moving declaration of 'i' as it is referenced outside current binding context.(Î«–èûÿÿÿÿ
+njavascript:S4138Ü"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Î«–èûÿÿÿÿ
+9javascript:S2814Ü"'i' is already defined.(Î«–èûÿÿÿÿ
+Jjavascript:S1117ğ"-'str' is already declared in the upper scope.(Ñ§ÛÛ
+Ojavascript:S1117¸"2'_runtime' is already declared in the upper scope.(…Ğî°
+|javascript:S2392¼"ZConsider moving declaration of 'expr' as it is referenced outside current binding context.(«¬Ôÿıÿÿÿÿ
+|javascript:S2392Ë"ZConsider moving declaration of 'args' as it is referenced outside current binding context.(¸—íûùÿÿÿÿ
+7javascript:S2814Í"'args' is already defined.(ü‡¡õ
+…javascript:S1172ç"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(€‘ÿÿÿÿÿ
+‡javascript:S1172ç"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(€‘ÿÿÿÿÿ
+‡javascript:S1172î"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(Âßå™ûÿÿÿÿ
+€javascript:S1172ù"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(¥Àıÿ
+‚javascript:S1172ù"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(¥Àıÿ
+Vjavascript:S1135‹"4Complete the task associated to this "TODO" comment.(Í±¾¿úÿÿÿÿ
+Vjavascript:S1135­"4Complete the task associated to this "TODO" comment.(Í±¾¿úÿÿÿÿ
+{javascript:S2392Û"^Consider moving declaration of 'template' as it is referenced outside current binding context.(»ˆ‚
+|javascript:S2392İ"ZConsider moving declaration of 'args' as it is referenced outside current binding context.(¸—íûùÿÿÿÿ
+Kjavascript:S1117ä".'args' is already declared in the upper scope.(ÀšØ¼
+…javascript:S1172ş"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(‹¿¶øÿÿÿÿ
+}javascript:S2392ƒ"`Consider moving declaration of 'innerValue' as it is referenced outside current binding context.(ªç¸
+=javascript:S2814…" 'innerValue' is already defined.(˜ÌÂ˜
+Yjavascript:S1121¤"7Extract the assignment of "token" from this expression.(·ûõ úÿÿÿÿ
+yjavascript:S1172³"]Remove the unused function parameter "ctx" or rename it to "_ctx" to make intention explicit.(úàŸL
+Jjavascript:S1117³".'expr' is already declared in the upper scope.(úàŸL
+javascript:S1172Û"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(ıÍÔW
+‚javascript:S1172ú"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(óßÙ
+…javascript:S1172ˆ"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(’Ó¿¬ÿÿÿÿÿ
+…javascript:S1172£"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(Ùã˜Öùÿÿÿÿ
+‡javascript:S1172£"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(Ùã˜Öùÿÿÿÿ
+…javascript:S1172£"cRemove the unused function parameter "tokens" or rename it to "_tokens" to make intention explicit.(Ùã˜Öùÿÿÿÿ
+…javascript:S1172¬"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(íÏÚüÿÿÿÿ
+‡javascript:S1172¬"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(íÏÚüÿÿÿÿ
+‡javascript:S1172±"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(Âßå™ûÿÿÿÿ
+€javascript:S1172·"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(½ÇÜß
+‚javascript:S1172·"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(½ÇÜß
+‡javascript:S1172»"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(Âßå™ûÿÿÿÿ
+‚javascript:S1172Ğ"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(óßÙ
+Mjavascript:S1117Ğ"0'values' is already declared in the upper scope.(óßÙ
+‡javascript:S1172Ù"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(Å€Şúÿÿÿÿ
+Qjavascript:S1135ã"4Complete the task associated to this "TODO" comment.(àû¿¥
+javascript:S1488ì"bImmediately return this expression instead of assigning it to the temporary variable "returnFunc".(£ÊÜ
+Vjavascript:S1135í"4Complete the task associated to this "TODO" comment.(¶ñ†Šşÿÿÿÿ
+zjavascript:S1488—"]Immediately return this expression instead of assigning it to the temporary variable "value".(èÔš
+‚javascript:S1172·"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(éòÓ¼
+vjavascript:S2392Ü"ZConsider moving declaration of 'prop' as it is referenced outside current binding context.(ïéÏh
+‚javascript:S1172ä"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(éòÓ¼
+xjavascript:S2392æ"[Consider moving declaration of 'value' as it is referenced outside current binding context.(ÄÇì«
+=javascript:S2814è"'value' is already defined.(´‘Ì¸şÿÿÿÿ
+xjavascript:S2392÷"[Consider moving declaration of 'query' as it is referenced outside current binding context.(Â³ÓÚ
+‡javascript:S1172ş"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(€»±ıÿÿÿÿ
+Rjavascript:S1117ş"0'target' is already declared in the upper scope.(€»±ıÿÿÿÿ
+ijavascript:S4138ƒ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ö¤‹
+‚javascript:S1172¤"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(éòÓ¼
+javascript:S2392¹"bConsider moving declaration of 'functionCall' as it is referenced outside current binding context.(àÂƒµ
+Kjavascript:S1117¾".'args' is already declared in the upper scope.(Í§±´
+?javascript:S2814Ì""'functionCall' is already defined.(àÂƒµ
+javascript:S1488Ö"]Immediately return this expression instead of assigning it to the temporary variable "apply".(æû¡¦ûÿÿÿÿ
+ƒjavascript:S1488ä"gImmediately return this expression instead of assigning it to the temporary variable "attributeAccess".(¥Òi
+zjavascript:S1488ê"]Immediately return this expression instead of assigning it to the temporary variable "value".(ÄÇì«
+‡javascript:S1172ô"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(ƒÅ–ûüÿÿÿÿ
+Kjavascript:S1117‘".'root' is already declared in the upper scope.(ß¶ÏÛ
+Qjavascript:S1117‘"4'firstIndex' is already declared in the upper scope.(ß¶ÏÛ
+Rjavascript:S1117‘"5'secondIndex' is already declared in the upper scope.(ß¶ÏÛ
+‡javascript:S1172±"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(Ë§ÜŞúÿÿÿÿ
+‡javascript:S1172É"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(Ë§ÜŞúÿÿÿÿ
+‡javascript:S1172é"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(Ä«‘áşÿÿÿÿ
+‡javascript:S1172ò"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(‘Ó»ûÿÿÿÿ
+€javascript:S2392ı"^Consider moving declaration of 'propName' as it is referenced outside current binding context.(ËÂşÿÿÿÿ
+@javascript:S2814ÿ"'propName' is already defined.(¢ìÇ„ÿÿÿÿÿ
+wjavascript:S2392Š"ZConsider moving declaration of 'from' as it is referenced outside current binding context.(˜™à½
+<javascript:S2814Œ"'from' is already defined.(»ô—ÿÿÿÿÿ
+}javascript:S2392"[Consider moving declaration of 'inElt' as it is referenced outside current binding context.(éÅ…Œúÿÿÿÿ
+=javascript:S2814’"'inElt' is already defined.(˜ïˆùÿÿÿÿ
+‚javascript:S1172œ"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(ÇùË
+Kjavascript:S1117œ".'from' is already declared in the upper scope.(ÇùË
+Ljavascript:S1117œ"/'inElt' is already declared in the upper scope.(ÇùË
+‡javascript:S1172Â"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(úÂ‘Õùÿÿÿÿ
+‡javascript:S1172ì"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(…ö°ÿÿÿÿÿ
+‚javascript:S1172‚"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(•¿¬¹
+{javascript:S2392¹"^Consider moving declaration of 'typeName' as it is referenced outside current binding context.(¸–²
+yjavascript:S2392º"\Consider moving declaration of 'nullOk' as it is referenced outside current binding context.(ôûÙ
+vjavascript:S2392¼"YConsider moving declaration of 'rhs' as it is referenced outside current binding context.(®ŞÎ³
+‡javascript:S1172É"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(…ö°ÿÿÿÿÿ
+Cjavascript:S3696ö"&Expected an error object to be thrown.(ı“üğ
+‡javascript:S1172"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(ƒ¿çşúÿÿÿÿ
+‡javascript:S1172–"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(…ö°ÿÿÿÿÿ
+javascript:S1172¦"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(èó¯)
+‚javascript:S1172ª"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(Ç±’¼
+yjavascript:S1488­"\Immediately return this expression instead of assigning it to the temporary variable "expr".(«ã¿Ã
+‚javascript:S1172½"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(ÚÕ¡ı
+‚javascript:S1172Â"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(¥âÓÚ
+Vjavascript:S1135Å"4Complete the task associated to this "TODO" comment.(ã¼‘ñûÿÿÿÿ
+‚javascript:S1172Ù"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(é¨ú£
+Sjavascript:S1117è"1'feature' is already declared in the upper scope.(ßï´ˆüÿÿÿÿ
+‚javascript:S2392›"`Consider moving declaration of 'startCount' as it is referenced outside current binding context.(³Æ¸ıÿÿÿÿÿ
+€javascript:S2392"^Consider moving declaration of 'endCount' as it is referenced outside current binding context.(½ÉÔ§üÿÿÿÿ
+javascript:S2392 "_Consider moving declaration of 'unbounded' as it is referenced outside current binding context.(Šìí¡şÿÿÿÿ
+ˆjavascript:S2392¦"fConsider moving declaration of 'intersectionSpec' as it is referenced outside current binding context.(°Ğ«¦ûÿÿÿÿ
+„javascript:S2392¶"bConsider moving declaration of 'mutationSpec' as it is referenced outside current binding context.(ƒ‚€Şüÿÿÿÿ
+~javascript:S2392ò"\Consider moving declaration of 'inExpr' as it is referenced outside current binding context.(ãÀãÚúÿÿÿÿ
+€javascript:S2392÷"^Consider moving declaration of 'timeExpr' as it is referenced outside current binding context.(³ïÒ¡ùÿÿÿÿ
+„javascript:S2392ø"bConsider moving declaration of 'debounceTime' as it is referenced outside current binding context.(¨Àıäıÿÿÿÿ
+Vjavascript:S1135ø"4Complete the task associated to this "TODO" comment.(¨Àıäıÿÿÿÿ
+@javascript:S2814û"'timeExpr' is already defined.(³ïÒ¡ùÿÿÿÿ
+javascript:S2392ü"bConsider moving declaration of 'throttleTime' as it is referenced outside current binding context.(¸ö©
+Qjavascript:S1135ü"4Complete the task associated to this "TODO" comment.(¸ö©
+Vjavascript:S1481—"9Remove the declaration of the unused 'queueAll' variable.(ğ†ƒ
+<javascript:S2814˜"'queueLast' is already defined.(ºÖŠ
+|javascript:S2392˜"_Consider moving declaration of 'queueLast' as it is referenced outside current binding context.(ºÖŠ
+‚javascript:S2392š"`Consider moving declaration of 'queueFirst' as it is referenced outside current binding context.(ğŠëçúÿÿÿÿ
+|javascript:S2392œ"_Consider moving declaration of 'queueNone' as it is referenced outside current binding context.(¹¯Ùª
+javascript:S1172¬"]Remove the unused function parameter "ctx" or rename it to "_ctx" to make intention explicit.(äã×şÿÿÿÿ
+€javascript:S1172ë"cRemove the unused function parameter "source" or rename it to "_source" to make intention explicit.(¢ÁÏï
+Ujavascript:S1117ú"3'eventName' is already declared in the upper scope.(ºÇã‰ıÿÿÿÿ
+€javascript:S2392ı"^Consider moving declaration of 'observer' as it is referenced outside current binding context.(ò Úéıÿÿÿÿ
+Tjavascript:S1117ı"2'observer' is already declared in the upper scope.(ò Úéıÿÿÿÿ
+;javascript:S2814‹"'observer' is already defined.(ùÃ«ÿ
+ƒjavascript:S2392–"aConsider moving declaration of 'errorSymbol' as it is referenced outside current binding context.(´à‡òÿÿÿÿÿ
+javascript:S2392—"bConsider moving declaration of 'errorHandler' as it is referenced outside current binding context.(Øº“
+‡javascript:S1172Û"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(äü¬¥ûÿÿÿÿ
+vjavascript:S2392á"YConsider moving declaration of 'end' as it is referenced outside current binding context.(´”ŠÊ
+6javascript:S2814ì"'end' is already defined.(ìîÀ£
+…javascript:S1172ı"cRemove the unused function parameter "source" or rename it to "_source" to make intention explicit.(ı¬æ…øÿÿÿÿ
+‚javascript:S1172†"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(·İÍÓ
+‡javascript:S1172‰"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(äü¬¥ûÿÿÿÿ
+‚javascript:S1172›"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(Ç©Ã¬
+ijavascript:S4138µ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(®¼ƒŒ
+…javascript:S1172»"cRemove the unused function parameter "target" or rename it to "_target" to make intention explicit.(ı¬æ…øÿÿÿÿ
+…javascript:S1172»"cRemove the unused function parameter "source" or rename it to "_source" to make intention explicit.(ı¬æ…øÿÿÿÿ
+Mjavascript:S1117À"0'target' is already declared in the upper scope.(ø¬Ñ
+Mjavascript:S1117À"0'source' is already declared in the upper scope.(ø¬Ñ
+ijavascript:S4138Ã"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ı¶
+Hjavascript:S1117Ã"+'i' is already declared in the upper scope.(ı¶
+]javascript:S1121Ô"@Extract the assignment of "installFeature" from this expression.(›Äáœ
+zjavascript:S1172Ù"]Remove the unused function parameter "ctx" or rename it to "_ctx" to make intention explicit.(ş¶Â«
+Kjavascript:S1117Ù".'args' is already declared in the upper scope.(ş¶Â«
+ijavascript:S4138Û"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¼ÊÉÔ
+…javascript:S1172í"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(é‰†‘øÿÿÿÿ
+‡javascript:S1172í"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(é‰†‘øÿÿÿÿ
+‡javascript:S1172"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(ÈªßÅÿÿÿÿÿ
+|javascript:S2392Ù"ZConsider moving declaration of 'body' as it is referenced outside current binding context.(ë¾„õıÿÿÿÿ
+7javascript:S2814Ü"'body' is already defined.(ı²‹’
+Qjavascript:S1117… "/'value' is already declared in the upper scope.(Ä«‘áşÿÿÿÿ
+ujavascript:S2392¥ "XConsider moving declaration of 'on' as it is referenced outside current binding context.(­Œ„³
+zjavascript:S2392© "]Consider moving declaration of 'waitCmd' as it is referenced outside current binding context.(••½
+Njavascript:S1117­ ",'on' is already declared in the upper scope.(–Ç´¼úÿÿÿÿ
+wjavascript:S2392É "ZConsider moving declaration of 'time' as it is referenced outside current binding context.(«Êá©
+:javascript:S2814Ì "'waitCmd' is already defined.(••½
+Pjavascript:S1135ß "4Complete the task associated to this "TODO" comment.(’ûO
+…javascript:S1172à "cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(´Öûáùÿÿÿÿ
+‡javascript:S1172à "eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(´Öûáùÿÿÿÿ
+‡javascript:S1172ö "eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(áúû£ûÿÿÿÿ
+Yjavascript:S1121ø "7Extract the assignment of "token" from this expression.(·ûõ úÿÿÿÿ
+zjavascript:S2392‰!"XConsider moving declaration of 'to' as it is referenced outside current binding context.(™©›Èıÿÿÿÿ
+:javascript:S2814‹!"'to' is already defined.(Ù¶¤˜úÿÿÿÿ
+Njavascript:S1117“!",'to' is already declared in the upper scope.(Äµ…Äşÿÿÿÿ
+Ujavascript:S1117“!"3'eventName' is already declared in the upper scope.(Äµ…Äşÿÿÿÿ
+Sjavascript:S1117“!"1'details' is already declared in the upper scope.(Äµ…Äşÿÿÿÿ
+xjavascript:S2392Ÿ!"[Consider moving declaration of 'value' as it is referenced outside current binding context.(íë£Ø
+ƒjavascript:S1488¢!"aImmediately return this expression instead of assigning it to the temporary variable "returnCmd".(ÍòÏÿÿÿÿÿ
+Qjavascript:S1117¥!"/'value' is already declared in the upper scope.(Ä«‘áşÿÿÿÿ
+€javascript:S2392Ì!"cConsider moving declaration of 'keepExecuting' as it is referenced outside current binding context.(Ò«øÖ
+{javascript:S2392Ï!"^Consider moving declaration of 'bubbling' as it is referenced outside current binding context.(†®—á
+~javascript:S2392Ñ!"aConsider moving declaration of 'haltDefault' as it is referenced outside current binding context.(’¼’ğ
+{javascript:S1488Õ!"_Immediately return this expression instead of assigning it to the temporary variable "haltCmd".(Ä/
+{javascript:S2392÷!"^Consider moving declaration of 'withExpr' as it is referenced outside current binding context.(ğ úÎ
+€javascript:S1488ù!"^Immediately return this expression instead of assigning it to the temporary variable "logCmd".( äšŞÿÿÿÿÿ
+Tjavascript:S1117ı!"2'withExpr' is already declared in the upper scope.(˜ÊÊ•ıÿÿÿÿ
+}javascript:S1488Œ""`Immediately return this expression instead of assigning it to the temporary variable "throwCmd".(æŸ¯Ô
+Jjavascript:S1117"".'expr' is already declared in the upper scope.(úàŸL
+vjavascript:S2392Å""ZConsider moving declaration of 'name' as it is referenced outside current binding context.(õ¼g
+ijavascript:S4138Ø""LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(®˜ˆì
+Kjavascript:S1117æ"".'expr' is already declared in the upper scope.(ƒâ÷
+Kjavascript:S1117æ"".'args' is already declared in the upper scope.(ƒâ÷
+~javascript:S2392ö""\Consider moving declaration of 'target' as it is referenced outside current binding context.(æ£¾üÿÿÿÿ
+9javascript:S2814ø""'target' is already defined.(á­
+Mjavascript:S1117‚#"0'target' is already declared in the upper scope.(Ä­×Ì
+javascript:S2392¨#"_Consider moving declaration of 'attribute' as it is referenced outside current binding context.(Õñò˜ÿÿÿÿÿ
+Ajavascript:S2814«#"'attribute' is already defined.(–†³şÿÿÿÿ
+€javascript:S1488°#"^Immediately return this expression instead of assigning it to the temporary variable "setCmd".(ŞÇæÁşÿÿÿÿ
+Kjavascript:S1117µ#".'root' is already declared in the upper scope.(Ş¤¹–
+Mjavascript:S1117Ù#"0'target' is already declared in the upper scope.(ŸÍè
+yjavascript:S2392ê#"\Consider moving declaration of 'target' as it is referenced outside current binding context.(á­
+Jjavascript:S1117ğ#"-'obj' is already declared in the upper scope.(ÄßøÂ
+Mjavascript:S1117ğ#"0'target' is already declared in the upper scope.(ÄßøÂ
+>javascript:S2814ù#"'target' is already defined.(«‡Š©øÿÿÿÿ
+ƒjavascript:S2392ˆ$"aConsider moving declaration of 'falseBranch' as it is referenced outside current binding context.( Áÿÿÿÿÿ
+‚javascript:S2392¦$"eConsider moving declaration of 'identifierToken' as it is referenced outside current binding context.(Ş£õ”
+‚javascript:S2392§$"`Consider moving declaration of 'identifier' as it is referenced outside current binding context.(í‘¨Şÿÿÿÿÿ
+‚javascript:S2392©$"`Consider moving declaration of 'expression' as it is referenced outside current binding context.(–‰¥Œÿÿÿÿÿ
+=javascript:S2814«$" 'identifier' is already defined.(èè“ÿ
+Bjavascript:S2814¬$" 'expression' is already defined.(–‰¥Œÿÿÿÿÿ
+|javascript:S2392®$"_Consider moving declaration of 'whileExpr' as it is referenced outside current binding context.(ıÖ­×
+yjavascript:S2392°$"]Consider moving declaration of 'isUntil' as it is referenced outside current binding context.(ƒåâx
+{javascript:S2392²$"YConsider moving declaration of 'evt' as it is referenced outside current binding context.(¤Èöüÿÿÿÿ
+ujavascript:S2392´$"XConsider moving declaration of 'on' as it is referenced outside current binding context.(­Œ„³
+<javascript:S2814·$"'whileExpr' is already defined.(ıÖ­×
+wjavascript:S2392º$"[Consider moving declaration of 'times' as it is referenced outside current binding context.(¾öÅR
+javascript:S2392¾$"]Consider moving declaration of 'forever' as it is referenced outside current binding context.(³ËÂˆûÿÿÿÿ
+Bjavascript:S2814Â$"%'identifierToken' is already defined.(Ş£õ”
+‚javascript:S2392Ã$"eConsider moving declaration of 'indexIdentifier' as it is referenced outside current binding context.(Ò»¥ì
+wjavascript:S2392à$"ZConsider moving declaration of 'slot' as it is referenced outside current binding context.(×ú×ö
+6javascript:S2814â$"'slot' is already defined.(šæª
+Hjavascript:S1117%",'on' is already declared in the upper scope.(ãÁ€l
+{javascript:S1172¨%"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(Ôù¨–ıÿÿÿÿ
+€javascript:S1172Ä%"cRemove the unused function parameter "parser" or rename it to "_parser" to make intention explicit.(ìØÛ¶
+‚javascript:S1172Ä%"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(ìØÛ¶
+Hjavascript:S3696Ú%"&Expected an error object to be thrown.(û£ñ¥şÿÿÿÿ
+Qjavascript:S1117á%"/'value' is already declared in the upper scope.(Ä«‘áşÿÿÿÿ
+Hjavascript:S3696è%"&Expected an error object to be thrown.(ìÍìôøÿÿÿÿ
+Rjavascript:S1117…&"0'amount' is already declared in the upper scope.(¯şÍ×ûÿÿÿÿ
+Rjavascript:S1117£&"0'amount' is already declared in the upper scope.(¯şÍ×ûÿÿÿÿ
+Jjavascript:S1117Ì&"-'url' is already declared in the upper scope.(Š«×»
+Kjavascript:S1117Ì&".'args' is already declared in the upper scope.(Š«×»
+tjavascript:S4144Ñ'"WUpdate this function so that its implementation is not identical to the one on line 32.(ï½Øô
+ujavascript:S2392İ'"XConsider moving declaration of 'on' as it is referenced outside current binding context.(­Œ„³
+5javascript:S2814ß'"'on' is already defined.(êÚÊ
+Njavascript:S1117å'",'on' is already declared in the upper scope.(–Ç´¼úÿÿÿÿ
+vjavascript:S3776’("TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(¬ôî—ûÿÿÿÿ
+|javascript:S2392 ("_Consider moving declaration of 'classRefs' as it is referenced outside current binding context.(Ÿ“´•
+zjavascript:S2392§("XConsider moving declaration of 'to' as it is referenced outside current binding context.(™©›Èıÿÿÿÿ
+5javascript:S2814©("'to' is already defined.(ß‰È»
+~javascript:S2392­("\Consider moving declaration of 'addCmd' as it is referenced outside current binding context.(Ñ– äûÿÿÿÿ
+Njavascript:S1117±(",'to' is already declared in the upper scope.(êÍ¨“ıÿÿÿÿ
+Tjavascript:S1117²("2'classRef' is already declared in the upper scope.(¹”şÿÿÿÿ
+>javascript:S2814»("'addCmd' is already defined.(Ñ– äûÿÿÿÿ
+Ijavascript:S1117À(",'to' is already declared in the upper scope.(£‘ƒã
+‚javascript:S1172À("eRemove the unused function parameter "attrRef" or rename it to "_attrRef" to make intention explicit.(£‘ƒã
+>javascript:S2814Ë("'addCmd' is already defined.(Ñ– äûÿÿÿÿ
+Ijavascript:S1117Ğ(",'to' is already declared in the upper scope.(â ÍŞ
+vjavascript:S3776ã("TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(÷¦­·ÿÿÿÿÿ
+|javascript:S2392ô("_Consider moving declaration of 'classRefs' as it is referenced outside current binding context.(Ÿ“´•
+wjavascript:S2392û("ZConsider moving declaration of 'from' as it is referenced outside current binding context.(˜™à½
+<javascript:S2814ı("'from' is already defined.(»ô—ÿÿÿÿÿ
+javascript:S2392)"_Consider moving declaration of 'removeCmd' as it is referenced outside current binding context.(ÑŸÏ¸üÿÿÿÿ
+Ajavascript:S2814)"'removeCmd' is already defined.(ÑŸÏ¸üÿÿÿÿ
+Kjavascript:S1117•)".'from' is already declared in the upper scope.(»òë…
+Tjavascript:S1117—)"2'classRef' is already declared in the upper scope.(¹”şÿÿÿÿ
+vjavascript:S3776©)"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(Áù¹¾şÿÿÿÿ
+javascript:S2392¬)"]Consider moving declaration of 'between' as it is referenced outside current binding context.(º¸Õ–ıÿÿÿÿ
+zjavascript:S2392­)"^Consider moving declaration of 'classRef' as it is referenced outside current binding context.(Éáû3
+javascript:S2392¯)"_Consider moving declaration of 'classRef2' as it is referenced outside current binding context.(³à˜¾ÿÿÿÿÿ
+:javascript:S2814±)"'classRef' is already defined.(Éáû3
+javascript:S2392²)"bConsider moving declaration of 'attributeRef' as it is referenced outside current binding context.(Ë¢÷
+|javascript:S2392¹)"_Consider moving declaration of 'classRefs' as it is referenced outside current binding context.(Ÿ“´•
+ujavascript:S2392Á)"XConsider moving declaration of 'on' as it is referenced outside current binding context.(­Œ„³
+5javascript:S2814Ã)"'on' is already defined.(êÚÊ
+|javascript:S2392Ç)"ZConsider moving declaration of 'time' as it is referenced outside current binding context.(É ÇŒıÿÿÿÿ
+vjavascript:S2392É)"YConsider moving declaration of 'evt' as it is referenced outside current binding context.(ô·«
+wjavascript:S2392Ë)"ZConsider moving declaration of 'from' as it is referenced outside current binding context.(˜™à½
+Ijavascript:S1117Ø)",'on' is already declared in the upper scope.(Ï ¾
+Tjavascript:S1117ä)"2'classRef' is already declared in the upper scope.(‰€Üøÿÿÿÿ
+Njavascript:S1117ô)",'on' is already declared in the upper scope.(›÷Ô‘ÿÿÿÿÿ
+Pjavascript:S1117ô)".'time' is already declared in the upper scope.(›÷Ô‘ÿÿÿÿÿ
+Ojavascript:S1117ô)"-'evt' is already declared in the upper scope.(›÷Ô‘ÿÿÿÿÿ
+Pjavascript:S1117ô)".'from' is already declared in the upper scope.(›÷Ô‘ÿÿÿÿÿ
+‚javascript:S1172²*"eRemove the unused function parameter "runtime" or rename it to "_runtime" to make intention explicit.(±ÎÆÖ
+Mjavascript:S1117Ø*"0'target' is already declared in the upper scope.(êšÒõ
+Mjavascript:S1117ù*"0'target' is already declared in the upper scope.(êšÒõ
+Njavascript:S1117Œ+"1'details' is already declared in the upper scope.(ïäÙ•
+wjavascript:S2392š+"ZConsider moving declaration of 'from' as it is referenced outside current binding context.(˜™à½
+7javascript:S2814œ+"'from' is already defined.(°áÅ
+yjavascript:S2392 +"\Consider moving declaration of 'forElt' as it is referenced outside current binding context.(ÌÏßÕ
+9javascript:S2814¢+"'forElt' is already defined.(‚ú€¨
+|javascript:S1488¥+"_Immediately return this expression instead of assigning it to the temporary variable "takeCmd".(úˆìŞ
+Kjavascript:S1117ª+".'from' is already declared in the upper scope.(ÑÇÓú
+Mjavascript:S1117ª+"0'forElt' is already declared in the upper scope.(ÑÇÓú
+xjavascript:S2392»+"[Consider moving declaration of 'value' as it is referenced outside current binding context.(ğçØÜ
+=javascript:S2814½+"'value' is already defined.(şÃÂ÷ıÿÿÿÿ
+Cjavascript:S3696Æ+"&Expected an error object to be thrown.(¤£û«
+qjavascript:S3776Ë+"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(õİğ¨
+†javascript:S2392ç+"dConsider moving declaration of 'attributeWrite' as it is referenced outside current binding context.(¯¤ÅÌÿÿÿÿÿ
+Fjavascript:S2814ë+"$'attributeWrite' is already defined.(¯¤ÅÌÿÿÿÿÿ
+€javascript:S1488ò+"^Immediately return this expression instead of assigning it to the temporary variable "putCmd".(°æˆ«ûÿÿÿÿ
+Kjavascript:S1117ø+".'root' is already declared in the upper scope.(Ğëî§
+ajavascript:S3358Š,"DExtract this nested ternary operation into an independent statement.(Å€
+fjavascript:S3358Œ,"DExtract this nested ternary operation into an independent statement.(ğêøóşÿÿÿÿ
+fjavascript:S3358,"DExtract this nested ternary operation into an independent statement.(™…¥êøÿÿÿÿ
+javascript:S2392®,"]Consider moving declaration of 'targets' as it is referenced outside current binding context.(¡ö”©ûÿÿÿÿ
+?javascript:S2814¸,"'targets' is already defined.(ß‘Õ¨şÿÿÿÿ
+:javascript:S2814Â,"'targets' is already defined.(¥ó»°
+qjavascript:S3776Ç,"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(ØµÚË
+wjavascript:S2392à,"ZConsider moving declaration of 'over' as it is referenced outside current binding context.(ÔöîŠ
+wjavascript:S2392â,"[Consider moving declaration of 'using' as it is referenced outside current binding context.(áÓ p
+Sjavascript:S1117è,"1'targets' is already declared in the upper scope.(Ù£œ”úÿÿÿÿ
+Vjavascript:S1117è,"4'properties' is already declared in the upper scope.(Ù£œ”úÿÿÿÿ
+Pjavascript:S1117è,".'from' is already declared in the upper scope.(Ù£œ”úÿÿÿÿ
+Njavascript:S1117è,",'to' is already declared in the upper scope.(Ù£œ”úÿÿÿÿ
+Qjavascript:S1117è,"/'using' is already declared in the upper scope.(Ù£œ”úÿÿÿÿ
+Pjavascript:S1117è,".'over' is already declared in the upper scope.(Ù£œ”úÿÿÿÿ
+…javascript:S1172ë,"cRemove the unused function parameter "reject" or rename it to "_reject" to make intention explicit.(¦â¯åşÿÿÿÿ
+njavascript:S4138ø,"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ãË½¦ÿÿÿÿÿ
+yjavascript:S2392ø,"WConsider moving declaration of 'i' as it is referenced outside current binding context.(ãË½¦ÿÿÿÿÿ
+3javascript:S2814ƒ-"'i' is already defined.( ğ]
+@javascript:S125Œ-"Remove this commented out code.(À°º¡úÿÿÿÿ
+\javascript:S1481-":Remove the declaration of the unused 'autoProps' variable.(ºÄ¨Äùÿÿÿÿ
+Gjavascript:S1117-"+'i' is already declared in the upper scope.( ğ]
+Ojavascript:S1117-"2'property' is already declared in the upper scope.(²î©
+@javascript:S125˜-"Remove this commented out code.(³À‘€úÿÿÿÿ
+;javascript:S125-"Remove this commented out code.(¦‹¢´
+Mjavascript:S1117¾-"0'target' is already declared in the upper scope.(êšÒõ
+Cjavascript:S3696à-"&Expected an error object to be thrown.(ºÛ™Û
+vjavascript:S3776è-"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(¡ëÍüùÿÿÿÿ
+„javascript:S2392ë-"bConsider moving declaration of 'parentSearch' as it is referenced outside current binding context.(ÀÓÎæûÿÿÿÿ
+javascript:S2392ğ-"bConsider moving declaration of 'attributeRef' as it is referenced outside current binding context.(ã Íù
+wjavascript:S2392õ-"ZConsider moving declaration of 'expr' as it is referenced outside current binding context.(ãòİå
+ujavascript:S2392ş-"XConsider moving declaration of 'to' as it is referenced outside current binding context.(é§İò
+5javascript:S2814€."'to' is already defined.(ß‰È»
+zjavascript:S1172Š."]Remove the unused function parameter "ctx" or rename it to "_ctx" to make intention explicit.(ší‚Ç
+Ijavascript:S1117Š.",'to' is already declared in the upper scope.(ší‚Ç
+|javascript:S2392."ZConsider moving declaration of 'node' as it is referenced outside current binding context.(û‰Òÿÿÿÿÿ
+<javascript:S2814‘."'node' is already defined.(Ã¸Ç´ıÿÿÿÿ
+qjavascript:S3776¥."TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(€À¡
+|javascript:S2392¨."ZConsider moving declaration of 'back' as it is referenced outside current binding context.(äïôûÿÿÿÿ
+yjavascript:S2392¬."\Consider moving declaration of 'target' as it is referenced outside current binding context.(ûåÅİ
+ujavascript:S2392­."YConsider moving declaration of 'url' as it is referenced outside current binding context.(ÕİË{
+|javascript:S2392±."_Consider moving declaration of 'newWindow' as it is referenced outside current binding context.(×ÅŞè
+9javascript:S2814º."'target' is already defined.(á­
+€javascript:S2392½."cConsider moving declaration of 'scrollOptions' as it is referenced outside current binding context.(‰¼ïÆ
+zjavascript:S1172ß."]Remove the unused function parameter "ctx" or rename it to "_ctx" to make intention explicit.(ší‚Ç
+Mjavascript:S1117ë."0'target' is already declared in the upper scope.(øÈ¦Ë
+vjavascript:S3776ö."TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(¬µ«áûÿÿÿÿ
+Pjavascript:S1117ü.".'node' is already declared in the upper scope.(ÚŞ¡¨øÿÿÿÿ
+Pjavascript:S1117‘/".'node' is already declared in the upper scope.(Âêı½ùÿÿÿÿ
+8javascript:S3626 /"Remove this redundant jump.(ûÁİ…
+Jjavascript:S1117¨/".'node' is already declared in the upper scope.(ÖÀ±T
+Rjavascript:S1117«/"0'result' is already declared in the upper scope.(õÜ¬Ÿüÿÿÿÿ
+Djavascript:S1125´/"'Remove the unnecessary boolean literal.(Éµç
+Djavascript:S1125¹/"'Remove the unnecessary boolean literal.(Ù¼í 
+hjavascript:S4138Å/"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ç‘%
+Ljavascript:S1117Ñ/"/'value' is already declared in the upper scope.(Šª
+ijavascript:S4138à/"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(øé…Õ
+Ojavascript:S1117õ/"-'val' is already declared in the upper scope.(»Ğúúûÿÿÿÿ
